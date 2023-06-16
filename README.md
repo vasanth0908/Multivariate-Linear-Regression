@@ -46,8 +46,6 @@ Predicted CO@ for the corresponding weight and volume [114.75968007]
 ```
 
 
-```
-
 
 
 ### Insert your output
