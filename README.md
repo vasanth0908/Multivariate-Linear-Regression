@@ -47,14 +47,13 @@ Predicted CO@ for the corresponding weight and volume [114.75968007]
 
 
 ```
-## Insert Output:
-![3](https://github.com/vasanth0908/Multivariate-Linear-Regression/assets/122000018/0f2deef1-ad66-4dc1-97fb-b654aa916faa)
 
 
 
 ### Insert your output
 
-<br>
+![3](https://github.com/vasanth0908/Multivariate-Linear-Regression/assets/122000018/8d5c9a78-fdc1-4036-8b42-4925139a9ce8)
+
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
